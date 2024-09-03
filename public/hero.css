@@ -1,0 +1,19 @@
+.sliderimage img{
+    width: 100%;
+    height: 550px;
+}
+
+@media (max-width: 768px) {
+    .sliderimage img{
+      height: 350px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .sliderimage img{
+        width: 100%;
+      height: 300px;
+    }
+  }
+
+

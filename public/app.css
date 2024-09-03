@@ -1,0 +1,6 @@
+.map{
+    display: flex;
+    justify-content: center;
+    background-color:#BB8493;
+    flex-wrap: wrap;
+}

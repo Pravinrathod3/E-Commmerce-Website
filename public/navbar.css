@@ -1,0 +1,33 @@
+.bar {
+   
+   z-index: 50;
+    height: 50px;
+    background-color: #f9e9de;
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-between;
+  justify-content: space-around;
+ 
+  
+}
+
+.Search{
+    padding-top: 10px;
+}
+
+.Search input{  
+    height: 20px;
+}
+
+.Logo img{
+ height: 50px;
+ 
+}
+
+.cart{
+    padding-top: 4px;
+}
+
+
+
+

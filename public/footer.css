@@ -1,0 +1,32 @@
+.footer {
+    background-color: rgb(56, 44, 44);
+    color: rgb(246, 241, 241);
+    padding: 20px 0;
+    background-image: url(../src/assets/footerimage.jpg) ;
+    background-size: cover;
+    opacity: 0.8;
+    padding: 100px;
+  }
+
+  
+  .footer .row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .footer .container {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .footer .col {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .footer h2 {
+    color: rgb(78, 220, 12);
+    margin-bottom: 10px;
+  }
+  
