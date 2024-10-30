@@ -2,7 +2,7 @@ import React from "react";
 import "../public/card.css"
 
 function clicked(){
-    alert("Item Placed");
+    
 }
 
 function Card(props){
